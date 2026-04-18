@@ -1,0 +1,7 @@
+com\sandeep\analyticsservice\AnalyticsServiceApplication.class
+com\sandeep\analyticsservice\kafka\KafkaConsumer.class
+patient\events\PatientEventOuterClass.class
+patient\events\PatientEventOrBuilder.class
+patient\events\PatientEvent.class
+patient\events\PatientEvent$Builder.class
+patient\events\PatientEvent$1.class
